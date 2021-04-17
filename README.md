@@ -1,0 +1,1 @@
+# bash-script-validate-CF-template
